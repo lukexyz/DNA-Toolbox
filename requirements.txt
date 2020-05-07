@@ -1,0 +1,10 @@
+biopython
+py3Dmol
+pytraj
+nglview
+py3Dmol
+pytraj
+squiggle
+numpy
+pandas
+matplotlib
