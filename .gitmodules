@@ -1,0 +1,3 @@
+[submodule "coronaversing"]
+	path = coronaversing
+	url = https://github.com/lukexyz/coronaversing
