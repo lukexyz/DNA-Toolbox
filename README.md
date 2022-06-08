@@ -3,6 +3,17 @@ Sequence Analysis of Covid19, SARS, and MERS using BioPython
 
 # Protein Synthesis
 
+<br/>
+
+  → :notebook_with_decorative_cover: [01-SequenceAnalysis.ipynb](notebooks/01-SequenceAnalysis.ipynb) The basics of `biopython`, and the `DNA` to `RNA` to `Amino Acid` chain.
+
+  → :bookmark_tabs: [02-SequenceComparison.ipynb](notebooks/02-SequenceComparison.ipynb) Compare and find sequence alignments between different virus genomes (SARS, MERS, COVID-19, and Ebola)
+
+  → :bookmark_tabs: [03-COVID19-GlobalAnalysis.ipynb](notebooks/03-COVID19-GlobalAnalysis.ipynb) Analysis of COVID-19 sample origins and genome changes over time.
+
+<br/>
+
+
 <p align="center">
   <img src="https://github.com/lukexyz/DNA-Toolbox/blob/master/graphics/protein_synthesis.PNG?raw=true">
 </p>
